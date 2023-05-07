@@ -3,3 +3,4 @@ DOMAIN-SUFFIX,graph.microsoft.com,OneDrive
 DOMAIN-SUFFIX,sharepoint.com,OneDrive
 DOMAIN-SUFFIX,onedrive.com,OneDrive
 DOMAIN-SUFFIX,storage.live.com,OneDrive
+DOMAIN-SUFFIX,office.net,OneDrive
