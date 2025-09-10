@@ -1,6 +1,6 @@
 # > CustomProxy
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,auth0.com
-DOMAIN,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,cloudflare.com
+DOMAIN,openaiapi-site.azureedge.net
